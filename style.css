@@ -1,0 +1,19 @@
+
+body{
+	background-color: #004d33;
+	background-repeat: no-repeat;
+	font-family: verdana;
+	font-size: 15px;
+}
+
+h1{
+	color: black;
+	text-align: center;
+}
+
+
+fieldset{
+	margin-left: 200px;
+	width: 600px;
+	background-color: white;
+}
